@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Android developer from Bangladesh and I Recently learning Flutter and Dart</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u">
 
-<p align="right" alt="Coding" width="800"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3l3b2I2Y3owMHNlajZ0MDh1aTJxbzFmNTI1cm5na2k4NXR0bnM5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" /> </p>
+<p align="right" alt="Coding" width="1600"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3l3b2I2Y3owMHNlajZ0MDh1aTJxbzFmNTI1cm5na2k4NXR0bnM5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" /> </p>
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
