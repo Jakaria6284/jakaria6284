@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="Coding" height="300" style="width: 100%;" src="https://github.com/Jakaria6284/jakaria6284/blob/main/Untitled%20design%20(10).png" />
+    <img alt="Coding" height="400" style="width: 800;" src="https://github.com/Jakaria6284/jakaria6284/blob/main/_8c921b55-534e-40b9-ac1d-b1228e050f24.jpg" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Jakaria kamal</h1>
